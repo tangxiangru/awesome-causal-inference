@@ -4,7 +4,7 @@ If there are any areas, papers, and datasets I missed, please let me know!
 
 
 ## CVPR 2020
-- [\ Unbiased Scene Graph Generation from Biased Training [[pdf]](https://arxiv.org/pdf/2002.11949.pdf)
+- Unbiased Scene Graph Generation from Biased Training [[pdf]](https://arxiv.org/pdf/2002.11949.pdf)
 - Visual Commonsense R-CNN [[pdf]](https://arxiv.org/pdf/2002.12204.pdf)
 
 ## AAAI 2020
